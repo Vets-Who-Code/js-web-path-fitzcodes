@@ -29,4 +29,4 @@
 - *`github` cli installed*
 - *`github` cli configured with user profile*
 
-![Fitz using terminal for cli to check issues, with vs-code running in the background](githubcliexample.png)
+![Fitz cli usage](githubcliexample.png)

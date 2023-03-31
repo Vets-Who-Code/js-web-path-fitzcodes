@@ -12,15 +12,15 @@
 **Create a git branch**
 - Branch for this issue is Dev_Issue2_TF
 
-## Step 4
+### Step 4
 **Use vs-code to add 3 markdown formatted `README.md` changes**
 - That's this `README.md` you are reading currently. 
 
-### Step 4
+### Step 5
 **Push those changes to the Github repo via a commit to the newly created branch**
 - Done.
 
-### Step 5
+### Step 6
 **Open a Pull Request to the `main` branch**
 - Done
 
